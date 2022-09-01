@@ -6,7 +6,8 @@
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
@@ -17,8 +18,11 @@
     <!-- FontAwesome -->
     <link rel="stylesheet" href="{% static 'css/fontawesome.all.min.css' %}">
 
-    <title>Welcome to Braniac!</title>
-
+    <title>
+      {% block title %}
+        Welcome to Braniac!
+      {% endblock title %}
+    </title>
   </head>
 
   <body>
@@ -65,7 +69,8 @@
               <li><a href="#">Положения &amp; Условия</a></li>
               <li><a href="#">Конфиденциальность &amp; Cookies</a></li>
               <li><a href="#">Документация по API</a></li>
-              <li><a href="{% url 'mainapp:doc_site' %}">Документация по сайту</a></li>
+              <li><a href="{% url 'mainapp:doc_site' %}">Документация по сайту</a>
+              </li>
             </ul>
           </p>
         </div>
@@ -120,7 +125,6 @@
 
     <!-- FontAwesome -->
     <script src="{% static 'js/fontawesome.all.min.js' %}"></script>
-
 
 
 
