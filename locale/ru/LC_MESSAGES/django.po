@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-13 15:09+0300\n"
+"POT-Creation-Date: 2022-10-13 16:18+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,103 +21,103 @@ msgstr ""
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 
 msgid "Please, enter a valid age!"
-msgstr ""
+msgstr "Введите возраст"
 
 msgid "username"
-msgstr ""
+msgstr "Ник"
 
 msgid "Required. 150 characters or fewer. ASCII letters and digits only."
-msgstr ""
+msgstr "150 символов"
 
 msgid "A user with that username already exists."
-msgstr ""
+msgstr "Существует (имя)"
 
 msgid "first name"
-msgstr ""
+msgstr "Имя"
 
 msgid "last name"
-msgstr ""
+msgstr "Фамилия"
 
 msgid "email address"
-msgstr ""
+msgstr "Почта"
 
 msgid "A user with that email address already exists."
-msgstr ""
+msgstr "Почта занята"
 
 msgid "staff status"
-msgstr ""
+msgstr "Стафф"
 
 msgid "Designates whether the user can log into this admin site."
-msgstr ""
+msgstr "Много"
 
 msgid "active"
-msgstr ""
+msgstr "Активно"
 
 msgid ""
 "Designates whether this user should be treated as active.             "
 "Unselect this instead of deleting accounts."
-msgstr ""
+msgstr "Много текста"
 
 msgid "date joined"
-msgstr ""
+msgstr "Дата встпуления"
 
 msgid "user"
-msgstr ""
+msgstr "Пользователь"
 
 msgid "users"
-msgstr ""
+msgstr "Пользователи"
 
 #, python-format
 msgid "Login success!<br>Hi, %(username)s"
-msgstr ""
+msgstr "Успех"
 
 msgid "See you later!"
-msgstr ""
+msgstr "Увидимся"
 
 msgid "Enter your message"
-msgstr ""
+msgstr "Введите сообщение"
 
 msgid "Message"
-msgstr ""
+msgstr "Сообщение"
 
 msgid "News"
-msgstr ""
+msgstr "Новости"
 
 msgid "Course"
-msgstr ""
+msgstr "Курс"
 
 msgid "User"
-msgstr ""
+msgstr "Пользователь"
 
 msgid "No feedback"
-msgstr ""
+msgstr "Нет отзывов"
 
 msgid "Feedback"
-msgstr ""
+msgstr "Отзывы"
 
 msgid "Rating"
-msgstr ""
+msgstr "Рейтинг"
 
 msgid "Lesson"
-msgstr ""
+msgstr "Урок"
 
 msgid "Lessons"
-msgstr ""
+msgstr "Уроки"
 
 msgid "Teacher"
-msgstr ""
+msgstr "Учтель"
 
 msgid "Teachers"
-msgstr ""
+msgstr "Учтеля"
 
 msgid "Message sended"
-msgstr ""
+msgstr "Отправлено"
 
 msgid "You can send only one message per 5 minutes"
-msgstr ""
+msgstr "Можно отправлять только раз в 5 минут"
 
 msgid "Django site admin"
-msgstr ""
+msgstr "Джанго админ сайт"
 
 msgid "Courses"
 msgstr "Курсы"
@@ -126,7 +126,7 @@ msgid "Profile"
 msgstr "Профиль"
 
 msgid "Enter"
-msgstr ""
+msgstr "Ввод"
 
 msgid "Contacts"
 msgstr "Контакты"
