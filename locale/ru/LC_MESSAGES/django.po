@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-13 16:18+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "Please, enter a valid age!"
+msgstr "Введите возраст"
+
+msgid "username"
+msgstr "Ник"
+
+msgid "Required. 150 characters or fewer. ASCII letters and digits only."
+msgstr "150 символов"
+
+msgid "A user with that username already exists."
+msgstr "Существует (имя)"
+
+msgid "first name"
+msgstr "Имя"
+
+msgid "last name"
+msgstr "Фамилия"
+
+msgid "email address"
+msgstr "Почта"
+
+msgid "A user with that email address already exists."
+msgstr "Почта занята"
+
+msgid "staff status"
+msgstr "Стафф"
+
+msgid "Designates whether the user can log into this admin site."
+msgstr "Много"
+
+msgid "active"
+msgstr "Активно"
+
+msgid ""
+"Designates whether this user should be treated as active.             "
+"Unselect this instead of deleting accounts."
+msgstr "Много текста"
+
+msgid "date joined"
+msgstr "Дата встпуления"
+
+msgid "user"
+msgstr "Пользователь"
+
+msgid "users"
+msgstr "Пользователи"
+
+#, python-format
+msgid "Login success!<br>Hi, %(username)s"
+msgstr "Успех"
+
+msgid "See you later!"
+msgstr "Увидимся"
+
+msgid "Enter your message"
+msgstr "Введите сообщение"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "News"
+msgstr "Новости"
+
+msgid "Course"
+msgstr "Курс"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "No feedback"
+msgstr "Нет отзывов"
+
+msgid "Feedback"
+msgstr "Отзывы"
+
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgid "Lesson"
+msgstr "Урок"
+
+msgid "Lessons"
+msgstr "Уроки"
+
+msgid "Teacher"
+msgstr "Учтель"
+
+msgid "Teachers"
+msgstr "Учтеля"
+
+msgid "Message sended"
+msgstr "Отправлено"
+
+msgid "You can send only one message per 5 minutes"
+msgstr "Можно отправлять только раз в 5 минут"
+
+msgid "Django site admin"
+msgstr "Джанго админ сайт"
+
+msgid "Courses"
+msgstr "Курсы"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Enter"
+msgstr "Ввод"
+
+msgid "Contacts"
+msgstr "Контакты"
